@@ -85,9 +85,7 @@ main a{
     text-decoration: underline;
 }
 main a:hover{
-    background-color:var(--cor2);
-    font-size:1.1em;
-    transition-delay: 0.2s;
+    background-color:var(--cor2);transition-delay: 0.35s;
     transition-duration: 0.1s;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
     
@@ -111,7 +109,6 @@ footer{
     width:auto;
     text-align:center;
 }
-/*Estilização fontes e tamanhos(h1,h2,p)*/
 h1{
     text-align: center;
     font-family:'Playfair Display', serif;;
