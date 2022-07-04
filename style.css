@@ -20,7 +20,7 @@
     --cinza:rgba(128, 128, 128, 0.4);
 
     --fonte-destaque: "PT Sans", serif;
-    --fonte-android: 'idroid.otf','cursive';
+    --fonte-android:'idroid.otf','cursive';
     --fonte-paragrafo:'Source Sans', sans-serif;
 }
 
@@ -157,7 +157,6 @@ nav{
     transition-delay: 0.1s;
 
 }
-
 h3{
     text-align:center;
     font-family:var(--fonte-android);
